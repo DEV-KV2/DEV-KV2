@@ -19,9 +19,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="your-linkedin-link"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/krishna-vishwakarma-475ab1353/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="your-portfolio-link"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-  <a href="mailto:your-email"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="krishnavish08@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
