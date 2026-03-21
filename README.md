@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna Vishwakarma</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Krishna%20Vishwakarma&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20|%20MERN%20Stack%20|%20AI/ML&descAlignY=55&descAlign=50" />
 <h3 align="center">🚀 ECE Student | MERN Stack Developer | AI/ML Enthusiast</h3>
 
 ---
