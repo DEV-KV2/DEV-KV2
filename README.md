@@ -31,6 +31,19 @@
 
 ---
 
+
+## 🚀 Projects
+
+<p align="center">
+### 🤖 AI Chatbot
+<img src="https://skillicons.dev/icons?i=python,tensorflow,nodejs" />
+
+### 📊 Data Analytics
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+</p>
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
