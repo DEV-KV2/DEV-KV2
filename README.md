@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishna-vishwakarma-475ab1353/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://my-portfolio-xi-amber-wc6kfh3sak.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+  <a href="https://krishna-vishwakarma.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
   <a href="kanha01212@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
